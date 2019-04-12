@@ -4,6 +4,7 @@ pruple
 pink
 orange
 blue 
+indigo
 green
 unicorn
 yellow
